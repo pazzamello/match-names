@@ -1,7 +1,3 @@
-# A simple Hello World program in Python
-print("Hello, World!")
-# BYD
-# Canadian solar
 
 def check_company_names(csv_file_path):
     """
